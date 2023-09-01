@@ -1,6 +1,4 @@
-###Hello!
-
-##This repository serves as the home for UNC Charlotte facility Occupancy data logging!
+# This repository serves as the home for UNC Charlotte facility Occupancy data logging!
 (not officialy associated with UNC Charlotte)
 
 The following services are being tracked:
